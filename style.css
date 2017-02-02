@@ -1,0 +1,56 @@
+
+th { 
+    background-color:yellow;
+          border:solid;
+          }
+
+body{
+      font-family:Verdana;
+      }
+tr {
+    border-color:blue;
+    border: 2px dotted blue;
+    }
+    
+table { 
+        border: 2px dotted blue;
+        border-collapse:collapse;
+        text-align:center;
+        font-size:1 em;
+        width:650px;
+        }
+.row1{
+       color:red;
+       }
+.row2{
+      color:blue;
+      }
+
+td { 
+    border: 2px dotted blue
+    }
+
+.center{
+         margin:auto;
+         }
+.col1 { 
+        width:20;
+        }
+.col2 { 
+       width:20%;
+       }
+.col3 {
+        width:20%;
+        }
+.col4 {
+        width:20%;
+        }
+.col5 {
+        width:20%;
+        }
+
+h1 { 
+    color:green;
+    text-align:center;
+    }
+
